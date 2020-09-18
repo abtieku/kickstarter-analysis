@@ -2,7 +2,7 @@
 ## Overview of Project
 
 ### Purpose
-Louise is a xxxx
+The purpose of this project is to assist Louise, who is an artistic fundraiser. There is one play called *Fever* which came close to its fundraising goal in a short amount of time. Now, Louise wants to know how different campaigns fared in relation to their launch dates and fundraising goals. I will attempt to assist Louise by using the Kickstarter dataset, and attempt to help her in the best way possible, using visualizations.
 The purpose of this document is to perform an analysis on Kickstarter data to help Louise figure out when to do fundraising, and how to go about doing it. This will greatly assist her in knowing how to proceed and get her projects funded. It will uncover trends, and provide guidance to Louise on what events she may want to pursue or discontinue.
 
 ## Analysis and Challenges
