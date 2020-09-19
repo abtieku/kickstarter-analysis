@@ -22,11 +22,11 @@ She could not meet her goals in many months
 She had trouble fundraising.
 
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+What are two conclusions you can draw about the Outcomes based on Launch Date?
 The months in which she should do fundraising should be the following: ![](resources/Theater_Outcomes_vs_Launch.png)
 Louise should only do fundraising in May and November.
 
-- What can you conclude about the Outcomes based on Goals?
+What can you conclude about the Outcomes based on Goals?
 The categories which seem to be doing well are: ![](resources/Outcomes_vs_Goals.png)
 Louise will be more successfully if she asks for small amounts of money from lots of people.
 
