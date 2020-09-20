@@ -17,6 +17,7 @@ I will use the Kickstarter dataset. The dataset consists of:
 ### Analysis of Outcomes Based on Launch Date
 For this, I did a pivot chart with theater in mind. It showed the months with number of successful, failed, and canceled campaigns.
 
+Click the following link to view a line chart depicting this:
 [Theater Outcomes Based on Launch Date](./resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
@@ -34,6 +35,7 @@ For this, I used the COUNTIFS command which counts the number of cells in a rang
 - 45000 to 49999
 - Greater than 50000
 
+Click the following link to view a line chart depicting this:
 [Outcomes Based on Goal](./resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
