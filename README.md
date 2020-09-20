@@ -1,9 +1,11 @@
 # Kickstarting with Excel
 ## Overview
 ### Purpose
-The purpose of this document is to assist Louise, an artistic fundraiser, in maximizing her fundraising goals. There is one play called _Fever_ which came close to its fundraising goal in a short amount of time. Now, I will perform an analysis on Kickstarter data to uncover how different campaigns fared in relation to their launch dates and fundraising goals. I will identify trends and guidance on what successful practices that she should employ in the future. I will use visualizations to help with this. 
+The purpose of this document is to assist Louise, an artistic fundraiser, in maximizing her fundraising goals. She raised funds for a play called _Fever_ which came close to its fundraising goal in a short amount of time. She wants to know how to maximize her future efforts and know what should she do, and what should she not do, in order to reach her goals. To do this, we will analyze trends that we see in a large dataset. 
 
-I will attempt to assist Louise by using the Kickstarter dataset. The Kickstarter dataset consisted of:
+I will perform an analysis on Kickstarter data to uncover how different campaigns fared in relation to their launch dates and fundraising goals. I will identify trends and provide guidance on what successful practices she should employ in the future. I will use visualizations to help with this. 
+
+I will use the Kickstarter dataset. The dataset consists of:
 - Plays (although it had other parent categories as well)
 - Financial goals, amounts pledged, and whether the goals were met or not
 - Countries
@@ -13,18 +15,30 @@ I will attempt to assist Louise by using the Kickstarter dataset. The Kickstarte
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-For this, I did a pivot chart with theater in mind. It was a pivot chart showing the months with number of successful vs failed or canceled campaigns.
+For this, I did a pivot chart with theater in mind. It showed the months with number of successful, failed, and canceled campaigns.
 
-[Outcomes Based on Launch Date](./resources/Theater_Outcomes_vs_Launch.png)
+[Theater Outcomes Based on Launch Date](./resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-For this, I used the COUNIFS command which counts the number of cells in a range meeting criteria.
+For this, I used the COUNIFS command which counts the number of cells in a range meeting certain criteria. The criteria categories were the following (in dollars):
+- Less than 1000
+- 1000 to 4999
+- 5000 to 9999
+- 10000 to 14999
+- 15000 to 19999
+- 20000 to 24999
+- 25000 to 29999
+- 30000 to 34999
+- 35000 to 39999
+- 40000 to 44999
+- 45000 to 49999
+- Greater than 50000
 
-[Outcomes Based on Goals](./resources/Outcomes_vs_Goals.png)
+[Outcomes Based on Goal](./resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-I had challenges with getting the pictures to show, at first. Then I got them to show, but they needed to be cropped.  
-I could not get a link to work, so I just showed the picture there.
+I had challenges with getting the pictures to show. Then I got them to show, but they needed to be cropped.  
+I could not get a link to work at first.
 
 ## Results
 **What are two conclusions you can draw about the Outcomes based on Launch Date?**
@@ -38,8 +52,8 @@ It does not tell the entire story. For example, it did not break down the givers
 
 **What are some other possible tables and/or graphs that we could create?**
 We could see how other countries are doing, or we could explore different parent categories, such as:
--Film and video
--Music
--Photography
+- Film and video
+- Music
+- Photography
 
 
