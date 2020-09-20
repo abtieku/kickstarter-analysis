@@ -24,13 +24,13 @@ I had challenges with getting the pictures to show, at first. Also they had too 
 ## Results
 What are two conclusions you can draw about the Outcomes based on Launch Date?
 The months in which she should do fundraising should be the following: 
-![Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Date](./resources/Theater_Outcomes_vs_Launch.png)
 Louise should only do fundraising in May and October.
 Description of the picture and pivot
 
 What can you conclude about the Outcomes based on Goals?
 The categories which seem to be doing well are: 
-![Outcomes Based on Goals](resources/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](./resources/Outcomes_vs_Goals.png)
 Description of the picture and pivot
 Louise will be more successful if she asks for small amounts of money from lots of people.
 More successful if:
