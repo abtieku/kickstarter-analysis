@@ -20,7 +20,7 @@ For this, I did a pivot chart with theater in mind. It showed the months with nu
 [Theater Outcomes Based on Launch Date](./resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-For this, I used the COUNIFS command which counts the number of cells in a range meeting certain criteria. The criteria categories were the following (in dollars):
+For this, I used the COUNIFS command which counts the number of cells in a range meeting certain criteria. It shows the percentage successful, failed and canceled campaigns. The criteria categories were the following (in dollars):
 - Less than 1000
 - 1000 to 4999
 - 5000 to 9999
@@ -37,15 +37,14 @@ For this, I used the COUNIFS command which counts the number of cells in a range
 [Outcomes Based on Goal](./resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-I had challenges with getting the pictures to show. Then I got them to show, but they needed to be cropped.  
-I could not get a link to work at first.
+I had challenges with pictures: getting them to show, cropping them, and getting the links to work. 
 
 ## Results
 **What are two conclusions you can draw about the Outcomes based on Launch Date?**
 The months in which she should do fundraising should be May and October. She should avoid the Christmas holiday season.
 
 **What can you conclude about the Outcomes based on Goals?**
-Louise will be more successful if she asks for small amounts of money from lots of people.
+Louise will be more successful if she asks for small amounts of money from lots of people. She should avoid asking for larger amounts of money.
 
 **What are some limitations of this dataset?**
 It does not tell the entire story. For example, it did not break down the givers: Were they individuals or organizations? If individuals, what were the demographics? If organizations, what type were they? Also, what type of fundraising campaigns were used: Were they via social media, print, TV, or something else?
