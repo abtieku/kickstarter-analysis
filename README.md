@@ -22,15 +22,13 @@ For this, I did a summary xxxx
 I had challenges with getting the pictures to show, at first. Also they had too much which space on the bottom and I had to crop.
 
 ## Results
-What are two conclusions you can draw about the Outcomes based on Launch Date?  
-
+**What are two conclusions you can draw about the Outcomes based on Launch Date?**
 The months in which she should do fundraising should be the following: 
 ![Outcomes Based on Launch Date](./resources/Theater_Outcomes_vs_Launch.png)
 Louise should only do fundraising in May and October.
 Description of the picture and pivot
 
-What can you conclude about the Outcomes based on Goals?
-
+**What can you conclude about the Outcomes based on Goals?**
 The categories which seem to be doing well are: 
 ![Outcomes Based on Goals](./resources/Outcomes_vs_Goals.png)
 Description of the picture and pivot
@@ -41,11 +39,9 @@ More successful if:
 - 50,000 and up
 Countifs - number of cells in a range that meet a criteria
 
-What are some limitations of this dataset?
-
+**What are some limitations of this dataset?**
 It does not tell the entire story. For example, it did not break down the givers - were they individuals, organizations or corporations? If individuals, what were the demographics? If organizations, what type were they? Also, what type of fundraising campaigns were used - was it email, print, TV, social media, or something else?
 
-What are some other possible tables and/or graphs that we could create?
-
+**What are some other possible tables and/or graphs that we could create?**
 She could add additional graphs based on different countries or different art forms.
 
